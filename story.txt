@@ -1,3 +1,9 @@
 
 Not so long time ago, the weather was not cold.
+<<<<<<< HEAD
 Now it's freeeezing, but today not so much.
+||||||| merged common ancestors
+Now it's freeeeeeeezing, but today not so much.
+=======
+Now it's freeeeeeeezingggggggg, but today not so much.
+>>>>>>> fun
